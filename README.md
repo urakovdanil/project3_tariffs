@@ -1,5 +1,14 @@
 # tariffs_github
  Analytic study of two cell phone tariffs. The main goal is to define which tariff is better for advanced advertising. 
+ 
+ Used libriaries: 
+ 1. pandas
+ 2. numpy
+ 3. scipy.stats
+
+ 4. matplotlib.pyplot
+ 5. seaborn
+
 
  The main technical feature is the usage of means of Mathematical Statistics in order to anwser the question asked. 
 
